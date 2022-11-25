@@ -52,7 +52,7 @@ h1{
   padding-left: 10px;
 }
 #fr{
-  background-image:url("g.jpg");
+  background-image:url("g.jpg.jpg");
   /* background-color: purple; */
   height: 90vh;
   display: flex;
